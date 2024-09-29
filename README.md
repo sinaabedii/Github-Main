@@ -1,4 +1,4 @@
-  <h1 align="left">
+  <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Sina+Abedi+;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
   </h1>
 
@@ -11,7 +11,6 @@ As a Front-end developer with two years of dedicated learning and practical expe
 ### 📌 My Expertise:
 
 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -22,11 +21,7 @@ As a Front-end developer with two years of dedicated learning and practical expe
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge) 
 ##
 
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinaabedii&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaabedii&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-
 
 
 ### 📌 My Social:
