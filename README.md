@@ -15,10 +15,11 @@ As a front-end developer with two years of dedicated experience, I am dedicated 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Material-Ui](https://img.shields.io/badge/MaterialUi-%2338B2AC.svg?style=for-the-badge&logo=materialui&logoColor=red) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![axios](https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![reduxtoolkit](https://img.shields.io/badge/reduxtoolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%2361DAFB) 
+![reduxtoolkit](https://img.shields.io/badge/reduxtoolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![axios](https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=axios&logoColor=%2361DAFB) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
 
