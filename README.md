@@ -2,13 +2,13 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Sina+Abedi+;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
   </h1>
 
-### About Me:
+About Me:
 
 As a Front-end developer with two years of dedicated learning and practical experience, I am deeply motivated to further my expertise and leveraging my skills to create impactful and user-centric products or services.
 
 
 
-### My Expertise:
+My Expertise:
 
 
 
