@@ -21,10 +21,6 @@ As a front-end developer with two years of dedicated experience, I am dedicated 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
-##
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sinaabedii&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaabedii&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
 ### 📌 My Social:
       
