@@ -1,5 +1,5 @@
   <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=600&height=100&lines=Hello+My+Friend;I+am+Sina+Abedi;Welcome+to+my+GitHub+page" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=600&height=100&lines=Hello+My+Friend;I+am+Sina+Abedi;Welcome+to+my+GitHub+page" alt="Typing SVG" />
   </h1>
 
 ### 📌 About Me:
