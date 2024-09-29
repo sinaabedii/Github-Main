@@ -18,7 +18,8 @@ As a Front-end developer with two years of dedicated learning and practical expe
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
+![ReduxToolkit](https://img.shields.io/badge/ReduxToolkit-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ##
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinaabedii&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaabedii&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
