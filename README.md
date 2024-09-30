@@ -18,7 +18,7 @@ As a front-end developer with two years of dedicated experience, I am dedicated 
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinaabedii&show_icons=true&locale=en&layout=compact" alt="sinaabedii" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinaabedii&show_icons=true&locale=en" alt="sinaabedii" /></p>
 
 
 
